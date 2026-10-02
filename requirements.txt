@@ -1,0 +1,9 @@
+langgraph
+requests
+beautifulsoup4
+ddgs
+fpdf2
+python-dotenv
+streamlit
+pytest
+pypdf
